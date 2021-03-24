@@ -8,4 +8,4 @@ const Detail = (props) => {
     return <h1>{bucket_list[bucket_idx]}</h1>
 };
 
-export default Detail;s
+export default Detail;
